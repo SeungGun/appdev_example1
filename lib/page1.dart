@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+/// 2021-10-30 Flutter 앱 개발 강좌 Example1 코드
 class Page1 extends StatefulWidget {
   @override
   _Page1State createState() => _Page1State();
